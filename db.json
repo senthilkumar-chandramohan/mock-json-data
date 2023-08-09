@@ -1,0 +1,19 @@
+{
+  faqs: [
+    {
+      "id": 1111,
+      "rank": 1,
+      "query": "What is the most popular product?"
+    },
+    {
+      "id": 1112,
+      "rank": 2,
+      "query": "What is the monthly fee for your basic plan?"
+    },
+    {
+      "id": 1113,
+      "rank": 3,
+      "query": "Do you have any yearly plans?"
+    }
+  ]
+}
